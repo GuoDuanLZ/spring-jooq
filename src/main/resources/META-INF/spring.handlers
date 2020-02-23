@@ -1,0 +1,2 @@
+#http\://www.jooqexample.com/schema/extend/cache=org.jooq.example.spring.recache.config.ExtendCacheNamespaceHandler
+#
